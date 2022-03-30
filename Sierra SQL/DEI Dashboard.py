@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 
-"""Create and email a list of new items
+"""
+Update DEI Dashboard Sheet within Google Drive
 
-Author: Gem Stone-Logan
-Contact Info: gem.stone-logan@mountainview.gov or gemstonelogan@gmail.com
+Author: Jeremy Goldstein
+Organization: Minuteman Library Network
+Contact Info: jgoldstein@minlib.net
 """
 
 import psycopg2
