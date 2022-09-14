@@ -31,3 +31,5 @@ A set of SQL queries that parse LC subject headings to sort our titles into vari
 ![holdings_comp.jpg](https://github.com/jmgold/DEI-Collections/blob/main/img/holdings_comp.jpg)
 
 [Python script running in Google Colab](https://github.com/jmgold/DEI-Collections/blob/main/Booklist_Holdings_Comparison.ipynb).  This script will allow you to quickly compare your holdings (loaded as a csv or Excel file) to a list of titles from an external source to provide the overlapping and absent titles.  Script using a fuzzy string matching algorithm in order to address data differences between the two lists such as alternate spellings of names or the inclusion/exclusion of subtitles.  Script was originally built for the use case of comparing holdings to a list of suggested diverse titles but can be used any time two lists of books need to be compared.
+
+For more details on all these tools you may see the slides for my [DIY DEI presentation](https://github.com/jmgold/DEI-Collections/blob/main/DIY%20DEI.pptx) presented at the 2022 IUG conference.
